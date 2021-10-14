@@ -1,0 +1,13 @@
+package br.com.ufpb.labs2;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Labs2Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(Labs2Application.class, args);
+	}
+
+}
